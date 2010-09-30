@@ -48,8 +48,7 @@
 #define N_PPS		18	/* Pulse per Second */
 
 #define N_V253		19	/* Codec control over voice modem */
-
-#define N_TI_SHARED	29	/* TI shared transport over BT */
+#define N_TI_WL		22	/* for TI's WL BT, FM, GPS combo chips */
 
 /*
  * This character is the same as _POSIX_VDISABLE: it cannot be used as
